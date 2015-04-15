@@ -7,7 +7,7 @@ This demo uses mongodb. make sure mongodb is installed.
 git clone https://github.com/jsaddict/hashlogger-demo.git
 `
 
-go inside folder 'hashlogger-demo' run the below command as admin<br>
+go inside folder 'hashlogger-demo' run the below command as admin
 
 `
 npm install
