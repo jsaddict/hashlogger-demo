@@ -1,0 +1,21 @@
+{
+    "name": "hashlogger_demo",
+    "version": "1.0.0",
+    "description": "Testing hashlogger",
+    "main": "./app.js",
+    "keywords": [
+        "hashlogger",
+        "hashlogger demo",
+        "hashlogger test"
+    ],
+    "author": {
+        "name": "Gopi M",
+        "email": "gopi4js@gmail.com"
+    },
+    "dependencies": {
+        "express":"latest",
+        "hashlogger":"latest",
+        "mongodb": "latest"
+    },
+    "license": "MIT"
+}
