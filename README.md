@@ -1,5 +1,5 @@
 # hashlogger-demo
-This is the demo of [hashLogger](http://hashLogger.com) library.
+This is the demo of [hashLogger](http://jsaddict.github.io/hashlogger-pages/) library.
 
 This demo uses mongodb. make sure mongodb is installed.
 
